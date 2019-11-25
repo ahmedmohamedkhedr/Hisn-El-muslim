@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hisn El-Muslim</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="toast1">something error try again later</string>
+    <string name="toast2">something error check your internet connection or server not found</string>
+    <string name="toast3">something error check your internet connection or server not found</string>
+
+    <string name="btn">close</string>
+    <string name="menu">listen</string>
+
+</resources>

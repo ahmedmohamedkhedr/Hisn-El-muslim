@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حصن المسلم</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزية</string>
+    <string name="toast1">حدث خطأ ما يرجي المحاوله مرة اخرى</string>
+    <string name="toast2">حدث خطأ ما يرجي التاكد من الاتصال بالانترنت او انه يوجد خطأ ما بالسيرفر</string>
+    <string name="toast3">حدث خطأ ما يرجي التاكد من الاتصال بالانترنت او انه يوجد خطأ ما بالسيرفر</string>
+    <string name="btn">اغلاق</string>
+    <string name="menu">استمع</string>
+
+</resources>
